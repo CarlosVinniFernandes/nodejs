@@ -1,7 +1,3 @@
-Com base nas informações que você forneceu, criei um README de exemplo para o seu repositório. Aqui está:
-
----
-
 # Projeto Node.js - API de Vídeos
 
 Este repositório foi criado para aprendizado de **Node.js** utilizando **JavaScript**. O projeto é uma API simples para gerenciamento de vídeos, onde você pode criar, listar, atualizar e deletar vídeos com as propriedades de título, descrição e duração.
